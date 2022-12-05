@@ -75,7 +75,7 @@ app.post("/auth/register", (req, res) => {
             }
 
         })
-    })
+    }) 
 })
 
 app.listen(5000, () => {
